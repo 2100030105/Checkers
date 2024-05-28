@@ -9,7 +9,7 @@ We have developed a terminal version of this game.
 # How to run the game?
 
 ```bash
-$ git clone "https://github.com/esh04/Checkers.git"
+$ git clone "https://github.com/2100030105/Checkers.git"
 $ cd Checkers
 $ gcc main.c checkers.c
 $ ./a.out
